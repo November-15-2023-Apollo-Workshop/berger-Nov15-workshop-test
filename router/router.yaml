@@ -53,10 +53,5 @@ coprocessor:
   router:
     response:
       body: true
-      
-preview_persisted_queries:
-  enabled: true
-apq:
-  enabled: false
 
 
